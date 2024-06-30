@@ -22,6 +22,8 @@ cnblogs_scraper/
 ├── data_analysis.py
 └── requirements.txt
 └── scrapy.cfg
+![image](https://github.com/tang51678/cnblogs_scraper/assets/80816552/b3d76865-c04f-4a58-bc0c-78d56074aada)
+
 ```
 
 在项目根目录下的`requirements.txt`文件中添加所需依赖：
@@ -52,6 +54,8 @@ scrapy crawl cnblogs_pick
 
 ```
 python data_analysis.py
+![image](https://github.com/tang51678/cnblogs_scraper/assets/80816552/50b6ddc1-49d2-455e-9c5c-4b72089c1e86)
+
 ```
 
 ### 3.关键修改点：
