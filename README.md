@@ -8,6 +8,8 @@
 scrapy startproject cnblogs_scraper
 
 项目结构如下：
+![image](https://github.com/tang51678/cnblogs_scraper/assets/80816552/08ac0e89-548e-4854-8db4-0ddcbf23c463)
+
 cnblogs_scraper/
 │
 ├── cnblogs_scraper/
@@ -22,7 +24,6 @@ cnblogs_scraper/
 ├── data_analysis.py
 └── requirements.txt
 └── scrapy.cfg
-![image](https://github.com/tang51678/cnblogs_scraper/assets/80816552/b3d76865-c04f-4a58-bc0c-78d56074aada)
 
 ```
 
@@ -54,7 +55,8 @@ scrapy crawl cnblogs_pick
 
 ```
 python data_analysis.py
-![image](https://github.com/tang51678/cnblogs_scraper/assets/80816552/50b6ddc1-49d2-455e-9c5c-4b72089c1e86)
+![image](https://github.com/tang51678/cnblogs_scraper/assets/80816552/65be5e7c-4085-4946-a6f7-bad53acd6bc1)
+
 
 ```
 
